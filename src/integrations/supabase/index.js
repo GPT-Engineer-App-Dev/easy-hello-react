@@ -27,6 +27,7 @@ events // table: events
     venue_id: number
     is_starred: boolean
     private: boolean
+    cancelled: boolean
 
 comments // table: comments
     id: number
